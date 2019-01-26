@@ -2,15 +2,13 @@ Alexa Dad Jokes Skill
 Developed by Salman Malik
 January 25, 2019
 
---------------- Release Notes ---------------
 v1.0 - Initial Version - January 25, 2019
----------------------------------------------
 
---------------- Credits ---------------
 Thank you to https://icanhazdadjoke.com/api for the wonderful api
----------------------------------------
 
---------------- Skill Invocation ---------------
+
+Skill Invocation
+
 You can ask Alexa to ruin someone's day by asking for a random dad joke. You get a new joke every time you ask her. You can initiate the skill by saying:
 
 "Alexa, open dad jokes."
@@ -31,4 +29,3 @@ Alternatively, to skip the welcome message and dive straight into some painful c
 "Alexa, ask dad jokes to tell me a dad joke."
 "Alexa, ask dad jokes for a dad joke."
 "Alexa, ask dad jokes to end my suffering."
----------------------------------------------
