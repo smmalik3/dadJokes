@@ -3,7 +3,7 @@
 Copyright (c) 2019. All rights reserved.
 @author:        salman malik
 @created:       1/25/19
-@last modified: 1/25/19
+@last modified: 2/6/19
 """
 from __future__ import print_function
 from botocore.vendored import requests
@@ -117,9 +117,6 @@ def handle_session_end_request():
 
     return build_response({}, build_speechlet_response(
         card_title, speech_output, None, should_end_session))
-
-# This url uses zipcode:
-# 'http://api.aladhan.com/v1/timingsByAddress?address=20009'
 
 # Method for getting dad joke
 def get_dad_joke(intent, session):

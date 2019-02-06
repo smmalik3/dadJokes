@@ -1,6 +1,6 @@
-Alexa Dad Jokes Skill
-Developed by Salman Malik
-January 25, 2019
+# Alexa Dad Jokes Skill
+# Developed by Salman Malik
+# MIT License
 
 v1.0 - Initial Version - January 25, 2019
 
